@@ -1,0 +1,9 @@
+1. Silly rule: classify based on index odd/even
+    Validation result: 0.40
+2. Sensible Rule: If mean radius > 14, classify as malignant.
+    Validation result: 0.10
+3. Advanced Rule: If mean radius > 14 AND mean texture > 18, classify as malignant
+    Validation result: 0.20 
+Final Test Accuracy 0.00
+
+Training data teaches the model, validation data fine tunes it, and test data evaluates its real world performance
