@@ -1,0 +1,41 @@
+Group Members : Abdul, Mohammed, Aaryen, William, Lucas.
+
+
+How do you know these correlations are unlikely to be meaningful?
+These correlations are unlikely to be meaningful due to their highly satirical and lack any relation to each other. The 70-75 Hot dogs eaten during a championship is highly unlikely to cause the recall of 1.1 thousand vehicles.
+
+
+What do you think of the
+AI explanations?
+The AI is clearly satirical and humorous and does not give a  serious explanation to the graphs correlation. 
+
+
+Is there an easy way to avoid making mistakes like these in your
+professional work?
+Avoid heavily relying on generative AI to analyse data sets and set a clear line when comparing the right data with the right questions. 
+
+
+Topic 2: 
+
+What do you use generative AI models for? What do you think of the effects on society so
+far?
+
+Gen AI for coding, research and thoroughly explaining concepts. 
+
+What do you think of the effects on artists and musicians? How do you think it would affect
+other industries like education, law, medicine, or science? Would the benefits outweigh the
+risks? Who deserves the profits here? Would you want to work at a firm developing frontier
+AI models?
+
+AI is cheaper and faster than most professions, including artists and musicians. This reduces demand for such skills and causes a rise in AI generated content which is not original or contribute to innovation of the arts these professions are in. 
+
+For other sectors such as education, law, medicine, or science, generative AI can help boost the speed of research and accuracy of information. It also improves efficiency and improves decision making as the AI's are trained on thousands of models. 
+
+The benefits would outweigh the risks depending on who the user is where artists and musicians would lose a lot of demand for their skills and originality which could reduce human interaction with one another. Whereas people such as researchers can use it to speed up e
+
+The developers and researchers who train these models should get a portion of revenue generated as it is a service that is provided and requires energy and resources to maintain. 
+
+Topic 3: 
+
+
+
